@@ -1,0 +1,3 @@
+﻿  Programa.cpp
+C:\Users\eu\Documents\Estudos\07 - Estudando C++ Para Games\01\Programa\Programa\Programa.cpp(8,13): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  Programa.vcxproj -> C:\Users\eu\Documents\Estudos\07 - Estudando C++ Para Games\01\Programa\x64\Debug\Programa.exe
